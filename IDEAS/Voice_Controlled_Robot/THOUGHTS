@@ -1,0 +1,10 @@
+The thought for this project is have a robot that will be able to respond to voice commands. This project goes hand and hand with 
+the file for gesture driven robot, but they are seperate for clarity sake. 
+The goal for this project is to help elderly, or incapacitated individuals who need help for doing simple tasks. A few being, taking 
+garbage out, starting dish washer, turning off lights, keep track of appointments, etc. 
+
+BUILD:
+1) Microphone to pick user voice.
+2) Microcontroller that can be programmed with tasks.
+3) Robotic arm to pick up and perform tasks. 
+4) Ability to avoid obstacles and read the room. 
