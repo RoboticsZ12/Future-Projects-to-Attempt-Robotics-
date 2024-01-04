@@ -1,0 +1,10 @@
+The though for this project is to have a robot have the ability to play catch with a baseball with an individual. 
+Sports now a days are centered on self motivation. However, for an only child, this limits them significantly. 
+With this robot, it will even the odds and give only child children the ability to practice on their own. 
+
+BUILD:
+1) Robotic Vision to detect ball movement and color. 
+2) Ball receiver to store the ball thrown. 
+3) Ball shooter to shoot ball back to user. 
+4) A type of meassuring system that will enable the robot to calculate how far the user is from the contraption to throw ball back to user. 
+5) Fast moving motors to perform calculations to catch ball. 
