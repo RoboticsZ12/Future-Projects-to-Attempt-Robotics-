@@ -1,0 +1,8 @@
+The thought for this project is to limit the exposure of large, or small, fires to humans. Utilizing thermal sensors to detect 
+objects that get hotter than acceptable limits. The device would need to be activated manually to ensure automatic system does 
+not shoot what is not neccessary such as stove top. 
+
+BUILD:
+1) Infrared Sesor. 
+2) Thermal Sensor. 
+3) Water supply. 
