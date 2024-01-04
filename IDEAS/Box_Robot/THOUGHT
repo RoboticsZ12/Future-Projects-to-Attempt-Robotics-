@@ -1,1 +1,19 @@
+The thought of this project is to design a cheap robot that will have the ability of condesning itself into a 
+box for storage, then expanding itself out of a box upon activation by an external user. 
 
+The thought is to use a mutiltude of mnotors to run the arms, legs, and head out of box to operate its functions. 
+The main functionality will be a greeting robot to answer pre-programmed questions. Upon the robots expansion out
+of the box, the robot will display an Ipad or tablet of sorts for inputs from the user. 
+
+Upon the tablet will be a multitude of questions to ask the robot. The idea is to have the robot answer questions 
+about SIUE and the robotics program. Since the mechatronics/robotics program is relatively new, this could be a 
+fantastic way of showcasing the robotics program at SIUE. 
+
+BUILD:
+1) Tablet for user inputs.
+2) Multiple servo motors, or AC motors, to control joints, expansion, and condensing. 
+3) Speaker to talk to user. 
+
+FUTURE IDEAS FOR THIS PROJECT:
+Make the robot have the ability to be able to receive and respond w/o tablet. ONLY takes in voice from user and 
+interprets waht to say according to user voice input. 
