@@ -1,0 +1,7 @@
+The thought for this project is to create a robot that will have the ability to perform tasks almost like a dog. 
+Depending on certain gestures made by the user will determine the output of the robot. Some applications that 
+could be helpful could be carrying groceries from the car, fetching something, handshaking, etc. 
+
+BUILD:
+1) Robotic vision campera.
+2) Obstacle avoidance system.
